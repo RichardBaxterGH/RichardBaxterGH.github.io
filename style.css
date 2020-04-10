@@ -13,5 +13,15 @@ p{
 }
 div{
   font-weight: bold;
-  max-width: 300px;
+}
+.nagy{
+
+}
+.a0a1{
+
+}
+section{
+  width: 700px;
+  border: solid 1px blue;
+  display: flex;
 }
