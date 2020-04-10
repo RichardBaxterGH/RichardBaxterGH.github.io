@@ -15,10 +15,12 @@ div{
   font-weight: bold;
 }
 .nagy{
-
+width: 50px;
+height: 50px;
 }
 .a0a1{
-
+  width: 50px;
+  height: 50px;
 }
 section{
   width: 700px;
