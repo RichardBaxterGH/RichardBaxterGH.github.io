@@ -1,10 +1,10 @@
 h1 {
   color: red;
 }
-.big{
+big{
   color:blue;
 }
-.asteroid{
+asteroid{
   border: solid green 1px;
 }
 p{
@@ -13,4 +13,5 @@ p{
 }
 div{
   font-weight: bold;
+  max-width: 300px;
 }
