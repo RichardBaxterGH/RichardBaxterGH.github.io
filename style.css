@@ -14,17 +14,26 @@ p{
 div{
   font-weight: bold;
 }
-.nagy{
-width: 50px;
-height: 50px;
+ul{
+  width: 700px;
+  height: 100px;
+  background: none;
+  border: solid 2px blue;
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
 }
-.a0a1{
+li{
+  margin: 8px;
   width: 50px;
   height: 50px;
+  background: blue;
 }
-section{
-  width: 700px;
-  height: 120px;
-  border: solid 1px blue;
-  display: flex;
+.sarga{
+  background-color: orange;
+}
+.b{
+  background: purple
 }
