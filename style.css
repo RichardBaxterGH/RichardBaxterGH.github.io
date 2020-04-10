@@ -24,6 +24,7 @@ height: 50px;
 }
 section{
   width: 700px;
+  height: 120px;
   border: solid 1px blue;
   display: flex;
 }
